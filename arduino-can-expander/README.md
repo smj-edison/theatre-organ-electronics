@@ -8,3 +8,5 @@ be connected to various continous sensors (e.g. potentiometer on swell shade). T
 can also be used to provide power for external sensors.
 
 Code can be found at https://github.com/smj-edison/arduino-can-expander.
+
+Parts list is in this folder. GERBER and EasyEDA files are also in this directory.
